@@ -1,0 +1,2 @@
+# parambot
+Discord bot parameters
